@@ -16,28 +16,33 @@ const skillData = [
   }, 
   {
     id: 3,
+    name: 'Next.js',
+    span: '85%',
+  }, 
+  {
+    id: 3,
     name: 'React.js',
     span: '90%',
   }, 
   {
     id: 4,
     name: 'Node.js',
-    span: '85%',
+    span: '90%',
   }, 
   {
     id: 5,
     name: 'Redux',
-    span: '80%',
+    span: '85%',
   }, 
   {
     id: 6,
     name: 'MongoDb',
-    span: '85%',
+    span: '90%',
   }, 
   {
     id: 7,
     name: 'Postgresql',
-    span: '90%',
+    span: '95%',
   }, 
   {
     id: 8,

@@ -1,5 +1,6 @@
 import React from 'react';
 import ronald from '../images/ronalds.png';
+import suru from '../images/suru.png';
 import useOpenMe from '../utils/useOpenMe';
 import './company.css'
 
@@ -47,10 +48,10 @@ const Company = () => {
             </div>
           </div>
         </div>
-        { /* <div className='section-container'>
+        <div className='section-container'>
           <div className='company-section'>
-            <div class='company-left'>
-              <img alt='project' src={ronald} />
+            <div class='company-left-two'>
+              <img alt='project' src={suru} />
             </div>
             <div class='company-right'>
               <h2>SuruFoods</h2>
@@ -61,20 +62,20 @@ const Company = () => {
                 </ul>
               </div>
               <span>
-              A company that is dedicated to provide and connect people with food vendor and farmer .
+                An E-Commerce company that is dedicated to connect clients with vendor and deliver goods with ease.
               </span>
               <div className='company-link'>
+                <button>React Native</button>
                 <button>Nodejs</button>
                 <button>Express</button>
                 <button>Mongodb</button>
-                <button>React Native</button>
               </div>
               <div className='company-live'>
                 <button>See Project</button>
               </div>
             </div>
           </div>
-        </div> */ }
+        </div>
       </section>
     </>
   )
