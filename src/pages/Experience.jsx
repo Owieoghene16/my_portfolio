@@ -44,7 +44,7 @@ const Experience = () => {
             </div>
           </div>
           <div className='box-cont'>
-            <div className='top'>
+            <div className='topblue'>
               <h4>Chatbox</h4>
             </div>
             <div className='bottom'>
