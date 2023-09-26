@@ -60,7 +60,7 @@ const Contact = () => {
             </div>
             <div className='row2'>
               <div className='col100'>
-                <button>Send</button>
+                <button onClick={()=>openInNewTab('mailto:kindnessokpugie1@gmail.com')}>Send</button>
               </div>
             </div>
           </div>
