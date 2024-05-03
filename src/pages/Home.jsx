@@ -45,7 +45,7 @@ const Home = () => {
             </h1>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/mjigalin/"
+                  href="https://www.linkedin.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
